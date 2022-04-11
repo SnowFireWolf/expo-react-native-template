@@ -1,5 +1,7 @@
-# expo-react-native-template
+# expo-react-native-template + esbuild
 
 * alias 
   * ~
   * @
+
+* esbuild bundle
